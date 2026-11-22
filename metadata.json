@@ -1,0 +1,6 @@
+{
+  "name": "RutaCba",
+  "description": "Comparador inteligente de viajes desde Córdoba Capital hacia Argentina y países limítrofes: vuelos, transporte terrestre, combustible en tiempo real, calendario 30/60 días y alertas push.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
